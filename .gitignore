@@ -1,0 +1,18 @@
+# outputs & working files
+out/
+runs/
+*.mp4
+*.mov
+*.wav
+*.aif
+*.mp3
+!assets/theme.m4a
+# python
+__pycache__/
+*.pyc
+# scratch
+*.f32
+*.clips.json
+*.words.json
+*.layout.json
+fixes.json
